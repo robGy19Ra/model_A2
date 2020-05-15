@@ -14,7 +14,7 @@ import tkinter
 elevation = []
 in_raster = 1
 gradient = []
-webaddress = 0
+
 
 
 def test():
